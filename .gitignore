@@ -1,0 +1,14 @@
+# 忽略目录
+.idea/
+.git/
+.trae/
+
+# 忽略文件
+debug.log
+*.log
+.DS_Store
+Thumbs.db
+
+# 上传时忽略（可选）
+# vendor/
+# node_modules/
